@@ -1,0 +1,203 @@
+body{
+    background-color: rgb(185, 67, 179);
+}
+.main{
+    
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    height: 130vh;
+}
+h1{
+    text-align: left;
+    padding: 10px;
+}
+.detail{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    margin: 2px;
+    border: 1px solid wheat;
+}
+
+.detail:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+
+.detail1{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    margin: 2px;
+    border: 1px solid wheat;
+    
+}
+.detail1:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+
+.detail2{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    margin: 2px;
+    border: 1px solid wheat;
+    
+}
+.detail2:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.info{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    height: 80px;
+    margin: 2px;
+    border: 1px solid wheat;
+  
+}
+.info:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.info textarea{
+    height: 80px;
+    width: 250px;
+}
+
+.info1{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    margin: 2px;
+    border: 1px solid wheat;
+    
+}
+.info1:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.info2{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    margin: 2px;
+    border: 1px solid wheat;
+    
+}
+.info2:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.cardinfo{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    margin: 2px;
+    border: 1px solid wheat;
+    
+}
+.cardinfo:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.cardinfo1{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    margin: 2px;
+    border: 1px solid wheat;
+    
+}
+.cardinfo1:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.cardinfo2{
+    background-color: rgb(204, 97, 200);
+    height: 40px;
+    align-items: center;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+    border-radius: 8px;
+    border: 1px solid wheat;
+    
+}
+.cardinfo2:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.card{
+    
+    background-color: rgb(204, 97, 200);
+    align-items: center;
+     gap: 90px; 
+    display: flex;
+} 
+
+.card:hover{
+    background-color: rgb(105, 19, 105);
+    cursor: pointer;
+}
+.subhead{
+    text-align: left;
+}
+
+.butt{
+    background-color: rgb(236, 21, 236);
+    height: 45px;
+    margin: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 25px;
+}
+button:hover{
+    background-color: rgb(100, 34, 98);
+    cursor: pointer;
+}
